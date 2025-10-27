@@ -1,0 +1,2 @@
+# Factory_Page_obj_pattern
+Factory_Page_obj_pattern framework with allure
